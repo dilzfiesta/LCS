@@ -1,0 +1,2 @@
+# LCS
+LCS - Lottery System
